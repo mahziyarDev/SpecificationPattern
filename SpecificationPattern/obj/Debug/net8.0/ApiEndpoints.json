@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "SpecificationPattern.Controller.UserController",
+    "Method": "User",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SpecificationPattern.Controller.UserController",
+    "Method": "FilterByName",
+    "RelativePath": "api/User/name",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SpecificationPattern.Controller.UserController",
+    "Method": "GetUserRolesTitles",
+    "RelativePath": "api/User/RoleTitlt",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
